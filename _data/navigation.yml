@@ -3,7 +3,7 @@ main:
   - title: "About me"
     url: /about/
   - title: "Per Topic"
-  url: /PerTopic/
+    url: /PerTopic/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
